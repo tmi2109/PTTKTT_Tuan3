@@ -1,0 +1,6 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\QuickSort_DeQui\bin\Debug\QuickSort_DeQui.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\QuickSort_DeQui\bin\Debug\QuickSort_DeQui.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\QuickSort_DeQui\bin\Debug\QuickSort_DeQui.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\QuickSort_DeQui\obj\Debug\QuickSort_DeQui.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\QuickSort_DeQui\obj\Debug\QuickSort_DeQui.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\QuickSort_DeQui\obj\Debug\QuickSort_DeQui.pdb

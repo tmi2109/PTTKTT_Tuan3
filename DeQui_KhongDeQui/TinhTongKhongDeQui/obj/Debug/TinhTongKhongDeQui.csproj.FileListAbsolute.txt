@@ -1,0 +1,6 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\TinhTongKhongDeQui\bin\Debug\TinhTongKhongDeQui.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\TinhTongKhongDeQui\bin\Debug\TinhTongKhongDeQui.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\TinhTongKhongDeQui\bin\Debug\TinhTongKhongDeQui.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\TinhTongKhongDeQui\obj\Debug\TinhTongKhongDeQui.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\TinhTongKhongDeQui\obj\Debug\TinhTongKhongDeQui.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan3\TinhTong_DeQui_KhongDeQui\TinhTongKhongDeQui\obj\Debug\TinhTongKhongDeQui.pdb
